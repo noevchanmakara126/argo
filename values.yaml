@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: makarajr126/rag-ui
   pullPolicy: IfNotPresent
-  tag: "v21"
+  tag: "v26"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
